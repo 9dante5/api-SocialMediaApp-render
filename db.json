@@ -3,7 +3,25 @@
         {
             "id": 0,
             "correo": "andres@gmail.com",
-            "nombre": "andres polo",
+            "nombre": "andres",
+            "contraseña": "1234",
+            "fotoPerfil": "",
+            "publicaciones": [],
+            "amigos": []
+        },
+        {
+            "id": 1,
+            "correo": "camilo@gmail.com",
+            "nombre": "camilo",
+            "contraseña": "1234",
+            "fotoPerfil": "",
+            "publicaciones": [],
+            "amigos": []
+        },
+        {
+            "id": 2,
+            "correo": "joseph@gmail.com",
+            "nombre": "joseph",
             "contraseña": "1234",
             "fotoPerfil": "",
             "publicaciones": [],

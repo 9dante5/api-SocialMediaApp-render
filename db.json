@@ -10,12 +10,12 @@
                 {
                     "idPublicacion": 0,
                     "publicacion": "https://img.freepik.com/foto-gratis/gatos-lindos-que-relajan-interior_23-2150692683.jpg",
-                    "descripcip": "foto de gatos"
+                    "descripcion": "foto de gatos"
                 },
                 {
                     "idPublicacion": 1,
                     "publicacion": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGG74iwAGJOdM-8nSyrFkAIukHiDCEE7JgZg&s",
-                    "descripcip": "gato programador"
+                    "descripcion": "gato programador"
                 }
             ],
             "amigos": []
@@ -30,12 +30,12 @@
                 {
                     "idPublicacion": 0,
                     "publicacion": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRR5Q8_A9UwkheOQkL4TYEwTg02W6Xavz6Bw&s",
-                    "descripcip": "perro asustado"
+                    "descripcion": "perro asustado"
                 },
                 {
                     "idPublicacion": 1,
                     "publicacion": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_uggXj7q8e7H4X0JCCMxz75D3INvyL3GWpg&s",
-                    "descripcip": "de vacaciones"
+                    "descripcion": "de vacaciones"
                 }
             ],
             "amigos": []
@@ -50,12 +50,12 @@
                 {
                     "idPublicacion": 0,
                     "publicacion": "https://www.wradio.com.co/resizer/v2/JB5PKOXZCFADXANIAVDBPBE2N4.jpg?auth=b06ca701a7aeb68a478026449f74039fb9d9073a00805a071681710fd14d9bab&width=650&height=488&quality=70&smart=true",
-                    "descripcip": "loro cantante"
+                    "descripcion": "loro cantante"
                 },
                 {
                     "idPublicacion": 1,
                     "publicacion": "https://www.hola.com/horizon/landscape/b4a3a874add7-adobe-loro-mano-t.jpg",
-                    "descripcip": "loritos"
+                    "descripcion": "loritos"
                 }
             ],
             "amigos": []
